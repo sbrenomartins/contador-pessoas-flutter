@@ -11,3 +11,7 @@ Um aplicativo simples desenvolvido utilizando Flutter.
 - Column
 - FlatButton
 - Text
+
+<p align="center">
+    <img src="./print.png" alt="...">
+</p>
